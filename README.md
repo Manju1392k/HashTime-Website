@@ -3,6 +3,7 @@
 * ### HashTime is a Website for Project Management Tool. ⚙️
 * ### This HashTime project Management tool is help for Control the Project Management easly.
 * ### The HashTime has total information about Project like Payment, Deadline, TeamMembers etc. 👯
+* ### The FrontEnd Part is Completed.
 
 ---
 
